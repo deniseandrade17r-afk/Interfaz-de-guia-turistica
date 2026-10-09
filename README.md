@@ -5,7 +5,15 @@ Realizado por:
 - Sánchez Valenzuela Natalia Guadalupe
 - Rodriguez Andrade Denise Abigail
 
+En este trabajo se implementó una interfaz para una plataforma de guía turística y reservas llamada SonoraAventuras. El sistema muestra cómo el usuario interactúa con la plataforma para explorar destinos regionales, consultar atractivos turísticos, cotizar paquetes de viaje y gestionar sus reservas de forma autónoma.
 
+Funcionalidades del sistema:
+
+- Menú por categorías: Clasificación de viajes por tipo de turismo, como Playas y Costa, Pueblos Mágicos y Cultura, Aventura y Naturaleza, y Gastronomía y Tradición.
+- Filtros e información detallada de destinos: Opciones para filtrar actividades por precio, duración, nivel de dificultad y público objetivo, además de fichas con   calificación por estrellas, historia del lugar, clima recomendado, actividades disponibles y mapa interactivo.
+- Personalización y cotización de viajes: Pantalla para seleccionar fechas de llegada y salida, número de viajeros (adultos y niños) y agregar especificaciones o solicitudes especiales para la reserva.
+- Confirmación y estado: Modales y ventanas de aviso para confirmación de reservas, errores en la selección de fechas y validación de disponibilidad.
+- Finalización del pedido: Pantalla final que muestra el resumen del paquete o experiencia contratada, el desglose de costos y la confirmación directa de la reservación.
 
 Imágenes:
 <img width="484" height="277" alt="image" src="https://github.com/user-attachments/assets/96c72c82-ec12-4476-b560-cc4ce9fd5ecd" />
