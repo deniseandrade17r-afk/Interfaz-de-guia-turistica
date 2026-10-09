@@ -16,6 +16,8 @@ Funcionalidades del sistema:
 - Finalización del pedido: Pantalla final que muestra el resumen del paquete o experiencia contratada, el desglose de costos y la confirmación directa de la reservación.
 
 Imágenes:
+
+
 <img width="484" height="277" alt="image" src="https://github.com/user-attachments/assets/96c72c82-ec12-4476-b560-cc4ce9fd5ecd" />
 <img width="481" height="254" alt="image" src="https://github.com/user-attachments/assets/463ae897-14da-4755-aede-29249eeaa9e0" />
 <img width="467" height="258" alt="image" src="https://github.com/user-attachments/assets/251fc9c1-fea3-4ee4-8258-d24c563f90fd" />
